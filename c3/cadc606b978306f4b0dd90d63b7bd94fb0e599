@@ -1,0 +1,91 @@
+.rubocop.yml
+  s_300a560a1fc0f0::t_6e2f730e84adc0 6-54
+app/services/employee_directory.rb
+  s_300a560a1fc0f0::t_b96e2680b74e37 14,16-17,19-24
+  s_300a560a1fc0f0::t_0b927441e6496e 1-2
+app/models/employee.rb
+  s_300a560a1fc0f0::t_8c49d8bead130f 1-2,11-14
+config/initializers/pagy.rb
+  s_300a560a1fc0f0::t_b96e2680b74e37 1-3
+Gemfile
+  h_a87d6766587e14 1,3,6-9,11,14-16,19,34,37,47,51
+Gemfile.lock
+  s_300a560a1fc0f0::t_40f90c467f08e9 155,293
+app/blueprints/current_salary_blueprint.rb
+  s_300a560a1fc0f0::t_d8f685fb8ed943 1-2
+app/blueprints/employee_blueprint.rb
+  s_300a560a1fc0f0::t_27cb71efc99448 1-2,9
+app/blueprints/salary_change_blueprint.rb
+  s_300a560a1fc0f0::t_fc6e039c7a7493 1-2
+app/channels/application_cable/channel.rb
+  s_300a560a1fc0f0::t_ff03e08a3ef17f 1-2
+app/channels/application_cable/connection.rb
+  s_300a560a1fc0f0::t_bd7654d0c0edd2 1-2
+app/controllers/api/v1/application_controller.rb
+  s_300a560a1fc0f0::t_286fd200363268 1-2,9
+app/controllers/api/v1/employees_controller.rb
+  s_300a560a1fc0f0::t_7f10fe7deb6205 1-2,33-34
+app/controllers/api/v1/insights_controller.rb
+  s_300a560a1fc0f0::t_4c9f4bb63e15e0 1-2
+app/controllers/application_controller.rb
+  s_300a560a1fc0f0::t_1be09b05be0f40 1-2
+app/jobs/application_job.rb
+  s_300a560a1fc0f0::t_5f4ea5d755e3a3 1-2
+app/mailers/application_mailer.rb
+  s_300a560a1fc0f0::t_6669ad17dc67f6 1-2,4-5
+app/models/application_record.rb
+  s_300a560a1fc0f0::t_0ced14da009070 1-2
+app/models/current_salary.rb
+  s_300a560a1fc0f0::t_4c1877f49fc870 1-2
+app/models/salary_change.rb
+  s_300a560a1fc0f0::t_a56c7e13874bbd 1-2,9-10
+app/services/salary_insights.rb
+  s_300a560a1fc0f0::t_ced291c23e1c21 1-2
+app/services/salary_updater.rb
+  s_300a560a1fc0f0::t_19c11aa9314038 1-2,49,53,57,59,67
+config/application.rb
+  s_300a560a1fc0f0::t_4a75da0966967c 1,3,5-14
+config/boot.rb
+  s_300a560a1fc0f0::t_2b2dd28685f213 1,3-4
+config/environment.rb
+  s_300a560a1fc0f0::t_b31247011f5d4e 2
+config/environments/development.rb
+  s_300a560a1fc0f0::t_ca1c8ed6bf698b 1,22,25
+config/environments/production.rb
+  s_300a560a1fc0f0::t_7ed3e3abde2ce7 1,58
+config/environments/test.rb
+  s_300a560a1fc0f0::t_b207f3b25375b7 1,18,23
+config/initializers/salary_settings.rb
+  s_300a560a1fc0f0::t_19376c8bfab378 5-6
+config/puma.rb
+  s_300a560a1fc0f0::t_fb552815ba4b72 10-11,14,16,23,32,35,41
+config/routes.rb
+  s_300a560a1fc0f0::t_fdd30f9c7ba580 4-5,11-12
+db/seeds.rb
+  s_300a560a1fc0f0::t_feefdfc2aa685d 14-16
+spec/models/salary_updater_spec.rb
+  s_300a560a1fc0f0::t_7134cde110d2a4 7-8,12-13,17-18,24-25,30-33,35-36,41-42,50-51
+spec/services/employee_directory_spec.rb
+  s_300a560a1fc0f0::t_e796214326b8da 7-8,12-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c3cadc606b978306f4b0dd90d63b7bd94fb0e599",
+  "prompts": {},
+  "humans": {
+    "h_a87d6766587e14": {
+      "author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  },
+  "sessions": {
+    "s_300a560a1fc0f0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f672-f47f-7182-aa47-348b6dbeef3b",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  }
+}
