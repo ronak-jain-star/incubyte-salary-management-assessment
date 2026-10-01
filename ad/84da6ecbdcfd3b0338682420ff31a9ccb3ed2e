@@ -1,0 +1,19 @@
+Gemfile.lock
+  s_300a560a1fc0f0::t_2bbada6ca0b89a 137,151-153,161,284
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ad84da6ecbdcfd3b0338682420ff31a9ccb3ed2e",
+  "prompts": {},
+  "sessions": {
+    "s_300a560a1fc0f0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f672-f47f-7182-aa47-348b6dbeef3b",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  }
+}
