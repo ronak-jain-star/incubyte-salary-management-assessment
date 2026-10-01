@@ -1,0 +1,28 @@
+README.md
+  s_300a560a1fc0f0::t_76829730fe2b70 7,11,24-25,36-37,42
+  s_300a560a1fc0f0::t_0713798b1fc7e8 14-15
+  s_300a560a1fc0f0::t_c476fa1f127461 12-13
+Dockerfile
+  s_300a560a1fc0f0::t_76829730fe2b70 3-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0226b587b1ca556f74a61a7e0dd3c87aa2bc5862",
+  "prompts": {},
+  "humans": {
+    "h_a87d6766587e14": {
+      "author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  },
+  "sessions": {
+    "s_300a560a1fc0f0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f672-f47f-7182-aa47-348b6dbeef3b",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  }
+}
