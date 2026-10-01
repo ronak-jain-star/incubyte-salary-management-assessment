@@ -1,0 +1,31 @@
+app/services/employee_directory.rb
+  s_300a560a1fc0f0::t_9e95aaaa61bd9d 1-18
+app/services/salary_updater.rb
+  s_300a560a1fc0f0::t_63089fb01ca5a8 20,53-59,70
+  s_300a560a1fc0f0::t_a5cc268ed6d1c0 42-44
+  s_300a560a1fc0f0::t_6b86c233121168 7-19,21-33,35-36,38-41,45-50,62-69,71-79
+app/controllers/api/v1/employees_controller.rb
+  s_300a560a1fc0f0::t_9e95aaaa61bd9d 5-12,14-15
+  s_300a560a1fc0f0::t_a5cc268ed6d1c0 18,22,27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8c8b5f24d209cd7f624cbb56ac2247ad47a63253",
+  "prompts": {},
+  "humans": {
+    "h_a87d6766587e14": {
+      "author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  },
+  "sessions": {
+    "s_300a560a1fc0f0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f672-f47f-7182-aa47-348b6dbeef3b",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  }
+}
