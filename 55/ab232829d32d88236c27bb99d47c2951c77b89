@@ -1,0 +1,59 @@
+README.md
+  s_988563f3ea5f74::t_4ccdd9f7fe1752 15,18,27,30-31,34
+  s_988563f3ea5f74::t_09c0fe54d21b4f 35
+Gemfile
+  s_988563f3ea5f74::t_72ac4f5af6e4a5 9-10,54
+  s_988563f3ea5f74::t_44b60ba084e142 7-8,50
+spec/requests/api/v1/employees_spec.rb
+  s_988563f3ea5f74::t_924bb787c5e6fe 10-15,34-42
+config/application.yml.example
+  s_988563f3ea5f74::t_44b60ba084e142 1-13
+.rubocop.yml
+  s_988563f3ea5f74::t_44b60ba084e142 1-5
+app/blueprints/salary_change_blueprint.rb
+  s_988563f3ea5f74::t_44b60ba084e142 1-6
+app/blueprints/employee_blueprint.rb
+  s_988563f3ea5f74::t_44b60ba084e142 1-13
+app/controllers/api/v1/employees_controller.rb
+  s_988563f3ea5f74::t_1568d3e8daa3c9 11-12,15,18-19,26
+  s_988563f3ea5f74::t_a91a48d22f0a79 5-6
+config/initializers/salary_settings.rb
+  s_988563f3ea5f74::t_44b60ba084e142 1-8
+app/blueprints/current_salary_blueprint.rb
+  s_988563f3ea5f74::t_44b60ba084e142 1-3
+.gitignore
+  s_988563f3ea5f74::t_1568d3e8daa3c9 2
+app/models/current_salary.rb
+  s_988563f3ea5f74::t_1568d3e8daa3c9 4
+app/models/salary_change.rb
+  s_988563f3ea5f74::t_1568d3e8daa3c9 4
+app/services/salary_updater.rb
+  s_988563f3ea5f74::t_1568d3e8daa3c9 11-12
+  s_988563f3ea5f74::t_5cc42f1d5c7c36 20
+Gemfile.lock
+  s_988563f3ea5f74::t_abd13c67a5cf15 83,87,110-111,122-124,152-155,206,212,232-260,268-270,281,286-287,292
+config/application.rb
+  s_988563f3ea5f74::t_bbd426c5401349 29
+db/schema.rb
+  s_988563f3ea5f74::t_fc04f54f60654e 1-57
+db/seeds.rb
+  s_988563f3ea5f74::t_1549654e696e31 14-15,18
+frontend/package-lock.json
+  s_988563f3ea5f74::t_6c363393cb81ba 1-1655
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "55ab232829d32d88236c27bb99d47c2951c77b89",
+  "prompts": {},
+  "sessions": {
+    "s_988563f3ea5f74": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f5e0-d1c2-7ec3-8926-dff871505763",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  }
+}
