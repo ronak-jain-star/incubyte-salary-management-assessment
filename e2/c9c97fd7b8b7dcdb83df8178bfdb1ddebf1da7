@@ -1,0 +1,29 @@
+spec/requests/api/v1/employees_spec.rb
+  s_300a560a1fc0f0::t_0787bc8ebd9620 4-5,7-12,19,32
+spec/models/salary_updater_spec.rb
+  s_300a560a1fc0f0::t_4565bc6735a58e 4-11,14,25,39,51,58
+spec/spec_helper.rb
+  s_300a560a1fc0f0::t_765aee4e603b94 5
+Gemfile
+  s_300a560a1fc0f0::t_765aee4e603b94 17
+spec/services/employee_directory_spec.rb
+  s_300a560a1fc0f0::t_0787bc8ebd9620 5,7,9-11,13,17,25-26,32-33
+Gemfile.lock
+  s_300a560a1fc0f0::t_f5963baf880fbc 268,300
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e2c9c97fd7b8b7dcdb83df8178bfdb1ddebf1da7",
+  "prompts": {},
+  "sessions": {
+    "s_300a560a1fc0f0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f672-f47f-7182-aa47-348b6dbeef3b",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  }
+}
