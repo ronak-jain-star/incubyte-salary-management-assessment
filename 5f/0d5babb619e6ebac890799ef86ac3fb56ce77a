@@ -1,0 +1,33 @@
+app/controllers/api/v1/application_controller.rb
+  s_300a560a1fc0f0::t_71c0d6d16124ac 4-5,7
+.github/workflows/rspec.yml
+  s_300a560a1fc0f0::t_67091e7a9068fa 1-42
+spec/requests/api/v1/employees_spec.rb
+  s_300a560a1fc0f0::t_1b81505102829b 9-11,23,37
+app/controllers/api/v1/insights_controller.rb
+  s_300a560a1fc0f0::t_71c0d6d16124ac 12
+.github/workflows/security.yml
+  s_300a560a1fc0f0::t_67091e7a9068fa 1-30
+app/controllers/api/v1/employees_controller.rb
+  s_300a560a1fc0f0::t_71c0d6d16124ac 12-15,18,22,29-32,34
+app/controllers/concerns/response_builder.rb
+  s_300a560a1fc0f0::t_71c0d6d16124ac 1-13
+frontend/src/App.tsx
+  s_300a560a1fc0f0::t_1b81505102829b 13-15,17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5f0d5babb619e6ebac890799ef86ac3fb56ce77a",
+  "prompts": {},
+  "sessions": {
+    "s_300a560a1fc0f0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f672-f47f-7182-aa47-348b6dbeef3b",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  }
+}
