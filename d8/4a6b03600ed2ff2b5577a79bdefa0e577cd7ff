@@ -1,0 +1,34 @@
+db/schema.rb
+  s_300a560a1fc0f0::t_eff9d70d72d01b 13
+db/migrate/20261001000002_create_salary_changes.rb
+  s_300a560a1fc0f0::t_eff9d70d72d01b 1,3-4
+spec/services/employee_directory_spec.rb
+  s_300a560a1fc0f0::t_442cbeb9413748 28-29
+  s_300a560a1fc0f0::t_71240db88698a8 1-27,30-38
+app/services/salary_updater.rb
+  s_300a560a1fc0f0::t_70dcf9a0d578ed 35,39,43,45,54
+db/migrate/20261001000001_create_current_salaries.rb
+  s_300a560a1fc0f0::t_eff9d70d72d01b 1-13
+db/migrate/20261001000000_create_employees.rb
+  s_300a560a1fc0f0::t_eff9d70d72d01b 1-18
+config/locales/en.yml
+  s_300a560a1fc0f0::t_70dcf9a0d578ed 32-38
+spec/models/salary_updater_spec.rb
+  s_300a560a1fc0f0::t_71240db88698a8 14,17,20-22,25,28-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d84a6b03600ed2ff2b5577a79bdefa0e577cd7ff",
+  "prompts": {},
+  "sessions": {
+    "s_300a560a1fc0f0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f672-f47f-7182-aa47-348b6dbeef3b",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Ronak Jain <ronak.jain@jiostar.com>"
+    }
+  }
+}
